@@ -1,6 +1,6 @@
 # npmtest-docker-cmd
 
-#### test coverage for  [docker-cmd (v0.2.2)](http://github.com/iorga-group/docker-cmd)  [![npm package](https://img.shields.io/npm/v/npmtest-docker-cmd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-docker-cmd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-docker-cmd.svg)](https://travis-ci.org/npmtest/node-npmtest-docker-cmd)
+#### basic test coverage for  [docker-cmd (v0.2.2)](http://github.com/iorga-group/docker-cmd)  [![npm package](https://img.shields.io/npm/v/npmtest-docker-cmd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-docker-cmd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-docker-cmd.svg)](https://travis-ci.org/npmtest/node-npmtest-docker-cmd)
 
 #### A Docker NodeJS lib wrapping the Docker command line and manage it from a json file.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-docker-cmd/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-docker-cmd/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-docker-cmd/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-docker-cmd/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-docker-cmd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-docker-cmd/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-docker-cmd/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-docker-cmd/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-docker-cmd/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-docker-cmd/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-docker-cmd/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-docker-cmd/build/coverage.html/index.html)
 
