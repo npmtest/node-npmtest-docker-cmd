@@ -1,24 +1,24 @@
 <svg height="334" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="334" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 06:52:59 +0000    54718 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 06:52:59 +0000    11324 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 06:52:59 +0000     8369 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 06:52:59 +0000      358 bytes  bin/docker-cm.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 06:52:59 +0000      108 bytes  index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 06:52:59 +0000     4234 bytes  lib/docker-cm.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 06:52:59 +0000    13636 bytes  lib/docker-cmd-manager.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 06:52:59 +0000     3907 bytes  lib/docker-cmd.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 06:52:59 +0000     2505 bytes  lib/typedefs.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 06:52:59 +0000     2680 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 06:52:59 +0000       79 bytes  test/resources/dep1/Dockerfile</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 06:52:59 +0000       76 bytes  test/resources/dep2/Dockerfile</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 06:52:59 +0000     1006 bytes  test/resources/dockerdesc1.json</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 06:52:59 +0000      476 bytes  test/resources/dockerdesc2.json</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 06:52:59 +0000      486 bytes  test/resources/dockerdesc3.json</tspan>
-<tspan x="10" y="266"> 15.  2017-04-19 06:52:59 +0000      178 bytes  test/resources/dockerdesc4.json</tspan>
-<tspan x="10" y="282"> 16.  2017-04-19 06:52:59 +0000       71 bytes  test/resources/main/Dockerfile</tspan>
-<tspan x="10" y="298"> 17.  2017-04-19 06:52:59 +0000      472 bytes  test/resources/malformed_desc.json</tspan>
-<tspan x="10" y="314"> 18.  2017-04-19 06:52:59 +0000     4753 bytes  test/test.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 19:24:37 +0000    54718 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 19:24:37 +0000    11324 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 19:24:37 +0000     8369 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 19:24:37 +0000      358 bytes  bin/docker-cm.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 19:24:37 +0000      108 bytes  index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 19:24:37 +0000     4234 bytes  lib/docker-cm.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 19:24:37 +0000    13636 bytes  lib/docker-cmd-manager.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 19:24:37 +0000     3907 bytes  lib/docker-cmd.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 19:24:37 +0000     2505 bytes  lib/typedefs.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 19:24:37 +0000     2680 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 19:24:37 +0000       79 bytes  test/resources/dep1/Dockerfile</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 19:24:37 +0000       76 bytes  test/resources/dep2/Dockerfile</tspan>
+<tspan x="10" y="218"> 12.  2017-04-27 19:24:37 +0000     1006 bytes  test/resources/dockerdesc1.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-27 19:24:37 +0000      476 bytes  test/resources/dockerdesc2.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-27 19:24:37 +0000      486 bytes  test/resources/dockerdesc3.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-27 19:24:37 +0000      178 bytes  test/resources/dockerdesc4.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-27 19:24:37 +0000       71 bytes  test/resources/main/Dockerfile</tspan>
+<tspan x="10" y="298"> 17.  2017-04-27 19:24:37 +0000      472 bytes  test/resources/malformed_desc.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-27 19:24:37 +0000     4753 bytes  test/test.js</tspan>
 </text>
 </svg>
